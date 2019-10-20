@@ -1,0 +1,125 @@
+{
+  "questions": [
+    {
+      "answers": [
+        "Michael 5",
+        "Living Colour",
+        "Jackson 5",
+        "Soul Train"
+      ],
+      "correct": {
+        "index": 2,
+        "text": "Michael Jackson's family band name was the famous 'Jackson 5'"
+      },
+      "image": "",
+      "number": 1,
+      "prompt": "What was Michael Jackson's family band called?"
+    },
+    {
+      "answers": [
+        "Michael Aldrin",
+        "Neil Strongford",
+        "Neil Armstrong",
+        "Aldrin Armstrong"
+      ],
+      "correct": {
+        "index": 2,
+        "text": "Neil Armstrong was the first man on the moon."
+      },
+      "image": "",
+      "number": 2,
+      "prompt": "Who was the first man on the moon?"
+    },
+    {
+      "answers": [
+        "Jennifer Lopez",
+        "Forest Whitaker",
+        "Mark Wahlberg",
+        "Denzel Washington"  
+      ],
+      "correct": {
+        "index": 3,
+        "text": "This was one of Denzel Washington's most memorable acting roles."
+      },
+      "image": "",
+      "number": 3,
+      "prompt": "Which actor was in the movie 'Training Day'?"
+    },
+    {
+      "answers": [
+        "Swing",
+        "Salsa",
+        "Jitterbug",
+        "Boogie Woogie"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Salsa is known as the sexy and soulfoul latin dance style all over the world."
+      },
+      "image": "",
+      "number": 4,
+      "prompt": "Which dance style is considered a latin dance style?"
+    },
+    {
+      "answers": [
+        "Male",
+        "Female"
+      ],
+      "correct": {
+        "index": 1,
+        "text": "Ada Lovelace is the world's first computer programmer."
+      },
+      "image": "",
+      "number": 5,
+      "prompt": "What the world's first computer programmer a male or female?"
+    },
+    {
+      "answers": [
+        "Bill Gates",
+        "Oprah Whinfrey",
+        "Warren Buffet",
+        "Jeff Bezos"
+      ],
+      "correct": {
+        "index": 3,
+        "image": "",
+        "text": "Amazon made Jeff Bezos $131 billion and the richest person on earth."
+      },
+      "image": "",
+      "number": 6,
+      "prompt": "Who is the richest person on earth?"
+    },
+    {
+      "answers": [
+        "Yes",
+        "No",
+        "They will in 2024",
+        "They will in 2030"
+      ],
+      "correct": {
+        "index": 0,
+        "text": "UBER currently offers helicoper for $200-225 one-way per person on average."
+      },
+      "image": "",
+      "number": 7,
+      "prompt": "Does UBER currently offer helicopter rides?"
+    },
+    {
+      "answers": [
+        "Mark Simpson",
+        "Mike Simpson",
+        "Steve Simpson",
+        "Homer Simpson"
+      ],
+      "correct": {
+        "index": 3,
+        "text": "Iconic Homer Simpson is Bart Simpson's father."
+      },
+      "image": "",
+      "number": 8,
+      "prompt": "What is the name of Bart Simpson's father?"
+    }
+  ],
+  "title": "Quizzing You On Some Trivia!",
+  "url": "http://apps-staging.urban.org/features/quick-quiz/"
+}
