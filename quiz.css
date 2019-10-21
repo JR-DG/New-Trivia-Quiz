@@ -185,6 +185,7 @@ html, body {
 .sweet-alert {
       margin-top: -251px !important;
       position: absolute;
+      background-image: inherit;
   }
 
 

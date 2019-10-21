@@ -9,9 +9,9 @@
       ],
       "correct": {
         "index": 2,
-        "text": "Michael Jackson's family band name was the famous 'Jackson 5'"
+        "text": "Michael Jackson's family band name was the famous 'Jackson 5.'"
       },
-      "image": "",
+      
       "number": 1,
       "prompt": "What was Michael Jackson's family band called?"
     },

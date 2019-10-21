@@ -185,7 +185,7 @@ var $indicators = $('<ol>')
         });
       } else {
         opts = $.extend(opts, {
-          title: "Drat",
+          title: "Try Again",
           text: (
             "Nope, not quite right!<br/><br/>" +
             "The correct answer was \"" +
